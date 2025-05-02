@@ -1,0 +1,8 @@
+fastapi
+uvicorn[standard]
+playwright
+requests
+beautifulsoup4
+lxml
+fuzzywuzzy[speedup] # İsteğe bağlı, string benzerliği için
+PyYAML # Eğer config.yaml kullanılacaksa
