@@ -1,0 +1,1 @@
+# turkpatent-trademark-scraper
